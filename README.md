@@ -8,6 +8,7 @@
 </div>
 
 ###
+![perfil](https://github.com/user-attachments/assets/436092bc-b370-4ac6-a464-3e8a7fb2b850)
 
 <img align="right" height="150" src="https://ibb.co/N6JDZq1m"  />
 
