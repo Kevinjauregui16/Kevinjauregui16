@@ -1,13 +1,6 @@
 <h2 align="left">Hi 👋! My name is Kevin and I'm a Full Stack Developer, from Guadalajara, Mexico.</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevinjauregui16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinjauregui16&layout=compact&theme=dracula" height="150"/>
-</div>
-
 ###
 ###
 
